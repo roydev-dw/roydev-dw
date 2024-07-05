@@ -8,12 +8,10 @@
 
 <br><br>
 
-- :school: Soy estudiante de tercer año de Ingeniería en Informática en [DUOC UC](https://www.duoc.cl/sedes/plaza-oeste/)
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
+- :school: Soy estudiante de tercer año de Ingeniería en Informática en [DUOC UC.](https://www.duoc.cl/sedes/plaza-oeste/)
+- :technologist: Me encanta el Desarrollo Web.
+- :computer: Actualmente uso tecnologías como `Html`, `Css`, `Scss`, `Bootstrap`, `Tailwind`, `Django` y `Angular`.
+- :sound: Siempre escucho musica rap, si quieres puedes usar mi playlist [Programando Rap](https://open.spotify.com/playlist/2ZGxQS6BHbuHrm8NbapqX6?si=2990f6cc071b4bf1) en Spotify
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
