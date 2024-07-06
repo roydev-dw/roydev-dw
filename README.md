@@ -24,10 +24,14 @@
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
-## Habilidades
+## :wrench: Tecnologías Conocidas
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,django,nodejs,npm,git,github,vscode,ps,ai&perline=12" />
   </a>
 </p>
+
+## :boom: Stats
+
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=roydev-dw&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
