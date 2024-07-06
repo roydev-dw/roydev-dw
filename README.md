@@ -1,7 +1,8 @@
 <h1 align="center">Hola. Soy Röy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src='./banner-github.png'>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mononoki&color=%2300fca8&size=22&center=true&vCenter=true&width=900&height=100&lines=🧑‍💻+Desarrollador+Front-end;🎓+Estudiante+de+Ingeniería+en+Informática;💻+Html+-+Css+-+Scss+-+Bootstrap+-+Tailwind+-+Django+-+Angular;⚙️+Resolviendo+Problemas"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mononoki&color=%2300fca8&size=22&center=true&vCenter=true&width=900&height=100&lines=🧑‍💻+Desarrollador+Front-end;🎓+Estudiante+de+Ingeniería+en+Informática"></a>
 </p>
 
 ## <img src = "https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width = 60px>&nbsp;&nbsp;Sobre mí
