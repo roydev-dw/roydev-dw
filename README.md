@@ -20,8 +20,9 @@
 - :technologist: Me encanta el Desarrollo Web.
 - :computer: Actualmente uso tecnologías como `Html`, `Css`, `Scss`, `Bootstrap`, `Tailwind`, `Django` y `Angular`.
 - :sound: Siempre escucho musica rap, si quieres puedes usar mi playlist [Programando Rap](https://open.spotify.com/playlist/2ZGxQS6BHbuHrm8NbapqX6?si=2990f6cc071b4bf1) en Spotify
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: Estoy disponible para nuevas `Oportunidades de Trabajo`, este es [MI CURRICULUM](https://drive.google.com/file/d/1N4a9Cp0_CuHfBrvI1md78kA38X0dvfEu/view?usp=sharing).
+
+ 
 <br>
 
 ## :wrench: Tecnologías Conocidas
