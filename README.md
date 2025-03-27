@@ -16,11 +16,10 @@
 
 <br>
 
-- :school: Soy estudiante de tercer año de Ingeniería en Informática en [DUOC UC.](https://www.duoc.cl/sedes/plaza-oeste/)
+- :school: Soy estudiante de úñtimo año de Ingeniería en Informática en [DUOC UC.](https://www.duoc.cl/sedes/plaza-oeste/)
 - :technologist: Me encanta el Desarrollo Web.
-- :computer: Actualmente uso tecnologías como `Html`, `Css`, `Scss`, `Bootstrap`, `Tailwind`, `Django` y `Angular`.
+- :computer: Actualmente uso tecnologías como `Html`, `Css`, `Scss`, `Bootstrap`, `Tailwind`, `Django` y estoy aprendiendo `React`.
 - :sound: Siempre escucho musica rap, si quieres puedes usar mi playlist [Programando Rap](https://open.spotify.com/playlist/2ZGxQS6BHbuHrm8NbapqX6?si=2990f6cc071b4bf1) en Spotify
-- :thinking: Estoy disponible para nuevas `Oportunidades de Trabajo`, este es [MI CURRICULUM](https://drive.google.com/file/d/1N4a9Cp0_CuHfBrvI1md78kA38X0dvfEu/view?usp=sharing).
 
  
 <br>
